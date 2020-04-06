@@ -1,4 +1,4 @@
-package Quiz5;
+package Java_GeekBrains.Animals;
 
 public class Bowl {
     double capacity;

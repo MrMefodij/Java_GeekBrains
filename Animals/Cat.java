@@ -1,4 +1,4 @@
-package Quiz5;
+package Java_GeekBrains.Animals;
 
 import java.util.Random;
 import java.util.Scanner;

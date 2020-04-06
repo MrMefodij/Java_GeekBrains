@@ -57,6 +57,7 @@ public class Calculator extends JFrame implements ActionListener {
         if (command == "="){
             System.out.println("Calculating result: ");
             double result = calculateResult();
+            System.out.println(command);
         }
     }
 
